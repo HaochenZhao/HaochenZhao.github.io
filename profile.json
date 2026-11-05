@@ -1,0 +1,76 @@
+{
+  "name": "Haochen Zhao",
+  "name_zh": "赵皓晨",
+  "scholar": "https://scholar.google.com/citations?user=V8O37tgAAAAJ",
+  "github": "https://github.com/HaochenZhao",
+  "publications": [
+    {
+      "title": "Benchmarking and Training Reward Models for Cross-Source Evidence Grounding in Search Agents",
+      "venue": "Preprint · 2026",
+      "url": "https://arxiv.org/abs/2610.17827",
+      "summary": "Evaluation and reward modeling for evidence-grounded search agents.",
+      "selected": true,
+      "authors": "Haochen Zhao, M. Hao, Z. Li, Y. Li, Z. Liu, B. Qin, Y. Cheng, C. Fan, H. Zou, J. Chen, et al."
+    },
+    {
+      "title": "The Halo Effect and Language Takeover: Spatiotemporal Attention Decay Explains Vision-Language Model Failures in Simple Visual Counting",
+      "venue": "TrustNLP · 2026",
+      "url": "https://aclanthology.org/2026.trustnlp-main.40/",
+      "summary": "Understanding visual counting failures in vision-language models.",
+      "selected": true,
+      "authors": "Haochen Zhao, S. Li"
+    },
+    {
+      "title": "MiMo: Unlocking the Reasoning Potential of Language Model — From Pretraining to Posttraining",
+      "venue": "Technical report · 2025",
+      "url": "https://arxiv.org/abs/2505.07608",
+      "summary": "Language-model reasoning and post-training.",
+      "selected": false,
+      "authors": "Xiaomi LLM Team"
+    },
+    {
+      "title": "MiMo-VL Technical Report",
+      "venue": "Technical report · 2025",
+      "url": "https://arxiv.org/abs/2506.03569",
+      "summary": "Multimodal language models.",
+      "selected": false,
+      "authors": "Xiaomi LLM & Core Team"
+    },
+    {
+      "title": "Baton: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching",
+      "venue": "The Web Conference (WWW) · 2025",
+      "url": "https://doi.org/10.1145/3696410.3714950",
+      "summary": "Efficient LLM inference through dynamic re-batching.",
+      "selected": false,
+      "authors": "P. Cong, Q. Chen, Haochen Zhao, T. Yang"
+    },
+    {
+      "title": "ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain",
+      "venue": "Preprint · 2024",
+      "url": "https://arxiv.org/abs/2411.16736",
+      "summary": "Domain-specific safety evaluation for language models.",
+      "selected": false,
+      "authors": "Haochen Zhao, X. Tang, Z. Yang, X. Han, X. Feng, Y. Fan, S. Cheng, D. Jin, Y. Zhao, et al."
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Tencent AI",
+      "role": "Research Intern",
+      "start": "2026-05",
+      "end": "Present"
+    },
+    {
+      "organization": "Xiaomi MiMo",
+      "role": "NLP Algorithm Intern",
+      "start": "2025-03",
+      "end": "2025-07",
+      "summary": "Language-model post-training to improve STEM and agentic capabilities."
+    }
+  ],
+  "avatar": {
+    "path": "assets/avatar.jpg",
+    "source": "https://x.com/zhao_vector"
+  },
+  "email": "e1553606 at u dot nus dot edu"
+}

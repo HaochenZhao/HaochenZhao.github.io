@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haochenzhao.github.io/sitemap.xml
